@@ -1,0 +1,19 @@
+{
+  "pageDesc": "All channels of our activities",
+
+  "links": [
+    { "label": "Download free e-book", "href": "https://bademmedia.com/ebook" },
+    {
+      "label": "Send us an inquiry for cooperation",
+      "href": "https://bademmedia.com/en/contact"
+    },
+    {
+      "label": "Sign up for the newsletter",
+      "href": ""
+    },
+    {
+      "label": "Website",
+      "href": "/"
+    }
+  ]
+}

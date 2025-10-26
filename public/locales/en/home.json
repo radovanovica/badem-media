@@ -1,0 +1,32 @@
+{
+  "moreAboutUs": "More about us",
+  "projects": "Projects",
+  "services": "services",
+  "clients": "Clients",
+  "animatedTextDesktop": "50% of everything we would write about\n ourselves comes from the story of our\n clients. We are not an agency that exists\n for itself. Our goal is to be partners with\n our clients. Because we don’t want to\n “have clients.” We want to have\n something in common.",
+  "animatedTextMobile": "50% of everything we would\n write about ourselves comes\n from the story of our clients.\n We are not an agency that\n exists for itself. Our goal is to\n be partners with our clients.\n Because we don’t want to\n “have clients.” We want to\n have something in common.",
+  "faq": {
+    "row-1": {
+      "question": "Social media management",
+      "answer": "<span><b>We manage profiles on all current social networks - Facebook, Instagram, TikTok, YouTube, LinkedIn, and others. We punctually publish content, follow trends, and regularly communicate with your target audience.</b></span> <br/> <p>We don’t believe there are social media experts in the traditional sense of the word. We think that the expert is the person, or persons, who are able to adapt to the ever-changing nature of social media. We have a common goal, to make your performance on social media trending on a daily basis.</p>"
+    },
+    "row-2": {
+      "question": "Content Creation",
+      "answer": "<span><b>We take photos, write, design, record, and animate. We create complete content for all digital formats.</b></span> <br/> <p>It is our belief that the team choices made in content creation are more important than the choices you make in finance. Finances are important and we do not underestimate their significance. However, the point is different. We can always earn money again, but the bad impression we leave on current and potential clients is much harder to make up for. We have a common goal, to make your content convert to sales and the loyalty of your customers.</p>"
+    },
+    "row-3": {
+      "question": "Web Design",
+      "answer": "<span><b>We do complete web design, both in the back end and in the front end, so that your site looks attractive and performs flawlessly.</b></span> <br/> <p>We like to open the web design conversation with one simple question - what do you need the website for? When we know what we want to achieve, then we understand the essence of the website as a location that the audience interacts with, and not just a page on the Internet that looks cool. We have a common goal, to create a distinctive and communicative website that achieves brand awareness or sales.</p>"
+    },
+    "row-4": {
+      "question": "Ads",
+      "answer": "<span><b>As the saying goes, “You have to spend money in order to earn it.” Our rule says, “Be smart when spending your client’s money, so you can earn the most for them.”</b></span> <br/> <p>That’s why we create the optimal balance between a creative and a technically optimized advertisement. Whether it’s Google, Facebook, or Instagram, we believe these to be the two key points. We have a common goal, for the ad to do what it’s supposed to do - achieve brand awareness or sell.</p>"
+    },
+    "row-5": {
+      "question": "Influencer management",
+      "answer": "<span><b>We find the influencers that suit your brand. We make contact, organize cooperation, and maintain it from the beginning to the end of the campaign.</b></span> <br/> <p>Would you ever hire someone with no prior check or testing? We have the same approach when choosing influencers for cooperation with your brand. The choice we make can be felt on the level of the entire company. We have a common goal - to make the effect of that choice extraordinary.</p>"
+    }
+  },
+  "metaTitle": "Full Circle Digital Marketing Agency",
+  "metaDesc": "All digital marketing services in one place. We are not just another agency. We are your partner in improving your business"
+}

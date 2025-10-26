@@ -1,0 +1,59 @@
+{
+  "heading": "Our story begins here! Contact us.",
+
+  "text1": "<span> We want to meet you and hear your ideas. Write to us, </span> <br /> <span> and we'll set a time for our first meeting. </span>",
+
+  "describe": {
+    "col1": {
+      "label": "Place",
+      "ans": "<span> Milovana Markovica 12 </span> <br /> <span> Belgrade, Serbia </span>"
+    },
+    "col2": {
+      "label": "Working hours:",
+      "ans": "Pon - Pet, 08:00 - 16:00h GMT+1"
+    },
+    "col3": {
+      "label": "e-mail address and phone number",
+      "ans": "office@bademmedia.rs",
+      "ans2": "+381 60/123-4567"
+    }
+  },
+  "form": {
+    "name": {
+      "placeholder": "Your name",
+      "errorMessage": {
+        "min": "Must be 2 characters or more",
+        "max": "Can't be more tan 20 characters"
+      }
+    },
+    "surname": {
+      "placeholder": "Your surname",
+      "errorMessage": {
+        "min": "Must be 2 characters or more",
+        "max": "Can't be more tan 30 characters"
+      }
+    },
+    "phone": {
+      "placeholder": "Your phone number",
+      "errorMessage": "Number is not valid"
+    },
+    "email": {
+      "placeholder": "Your email address",
+      "errorMessage": "Email is not valid"
+    },
+    "companyName": {
+      "placeholder": "Your company name",
+      "errorMessage": "Must be 2 characters or more"
+    },
+    "addInfo": {
+      "placeholder": "description / additional information",
+      "errorMessage": ""
+    },
+    "submitBtn": "Send an inquiry",
+    "errorMessage": "Something went wrong, try again later.",
+    "successMessage": "Thank you for contacting us."
+  },
+  "required": "Required",
+  "metaTitle": "Badem Media | Contact",
+  "metaDesc": "Contact us and we will find shared inspiration and goals for your business."
+}

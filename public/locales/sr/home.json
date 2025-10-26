@@ -1,0 +1,32 @@
+{
+  "moreAboutUs": "Više o nama",
+  "projects": "Projekti",
+  "services": "usluge",
+  "clients": "Klijenti",
+  "animatedTextDesktop": "50% svega što bismo rekli o sebi sadrži\n se u priči naših klijenata. Nismo agencija\n koja postoji radi sebe. Cilj nam je da\n budemo partnerska agencija našim\n klijentima. Jer ne želimo da “imamo\n klijente”. Želimo da imamo nešto\n zajedničko.",
+  "animatedTextMobile": "50% svega što bismo rekli o\n sebi sadrži se u priči naših\n klijenata. Nismo agencija\n koja postoji radi sebe. Cilj\n nam je da budemo\n partnerska agencija našim\n klijentima. Jer ne želimo da\n “imamo klijente”. Želimo da\n imamo nešto zajedničko. ",
+  "faq": {
+    "row-1": {
+      "question": "Menadžment društvenih mreža",
+      "answer": "<span><b>Vodimo profile na svim aktuelnim društvenim mrežama. Facebook, Instagram, TikTok, YouTube, LinkedIn i druge. Pravovremeno objavljujemo sadržaj, pratimo trendove i ažurno komuniciramo sa vašom ciljnom grupom.</b></span> <br/> <p>Ne verujemo da postoji ekspert za društvene mreže u tradicionalnom smislu te reči. Verujemo da je ekspert u ovoj oblasti onaj, ili oni, koji se najbrže prilagođava promenjivoj prirodi društvenih mreža. Imamo zajednički cilj, da naš nastup na društvenim mrežama bude aktuelan iz dana u dan.</p>"
+    },
+    "row-2": {
+      "question": "Kreiranje sadržaja",
+      "answer": "<span><b>Fotografišemo, pišemo, dizajniramo, snimamo i animiramo. Kreiramo kompletan sadržaj za sve digitalne formate.</b></span> <br/> <p>Mislimo da su izbori tima u kreiranju sadržaja važniji od izbora koje pravite u finansijama. Finansije su važne i ne potcenjujemo njihov značaj. Ipak, poenta je drugačija. Novac uvek možemo ponovo zaraditi, ali loš utisak koji jednom ostavimo sadašnjim i potencijalnim klijentima, daleko je teže nadoknaditi. Imamo zajednički cilj, da vaš sadržaj vodi ka kupovini i lojalnosti vaših kupaca.</p>"
+    },
+    "row-3": {
+      "question": "Web dizajn",
+      "answer": "<span><b>Radimo kompletan veb dizajn. Kako u back-endu tako i u front-endu. Da bi vaš veb sajt izgledao atraktivno i radio besprekorno.</b></span> <br/> <p>Volimo da otvorimo razgovor oko veb dizajna sa jednim jednostavnim pitanjem - za šta vam je potreban veb sajt? Kada znamo šta želimo da postignemo. Onda razumemo suštinu veb sajta kao lokacije sa kojom publika komunicira, a ne stranice na internetu koja samo izgleda kul. Imamo zajednički cilj, da veb sajt bude upečatljiv i komunikativan.</p>"
+    },
+    "row-4": {
+      "question": "Reklamiranje",
+      "answer": "<span><b>Izreka kaže \"moraš da trošiš novac da bi ga zaradio\". Naše pravilo kaže, \"moraš pametno da trošiš novac klijenta da bi mu što više novca zaradio\".  </b></span> <br/> <p>Zato pravimo optimalan balans kreativene i tehnički podešene reklame. Bilo da je Google, Facebook ili Instagram, verujemo da su ovo dve ključne stavke. Imamo zajednički cilj, da reklama uradi ono zbog čega postoji. Ostvari brand awareness ili proda.</p>"
+    },
+    "row-5": {
+      "question": "Menadžment influensera",
+      "answer": "<span><b>Pronalazimo influensera koji odgovara vašem brendu. Stupamo u kontakt, organizujemo saradnju i sprovodimo je od početka do kraja kampanje. </b></span> <br/> <p>Da li biste zaposlili nekog bez prethodne provere i testiranja? Mi imamo isti pristup prilikom odabira influensera sa kojima brend sarađuje. Izbor kakav napravimo se može osetiti na nivou cele kompanije. Imamo zajednički cilj, da efekat tog izbora bude izvanredan.</p>"
+    }
+  },
+  "metaTitle": "Full Circle Digital Marketing Agency",
+  "metaDesc": "Sve usluge digitalnog marketinga na jednom mestu. Mi nismo samo još jedna agencija. Mi smo vaš partner u unapređenju vašeg biznisa."
+}

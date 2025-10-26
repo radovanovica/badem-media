@@ -1,0 +1,22 @@
+{
+  "address": "Global full cycle digital marketing agency based in Belgrade, Serbia.",
+  "country": "Belgrade, Serbia",
+  "rights": "All rights reserved. Ⓒ 2023 Badem Media",
+  "startProject": "Start a project",
+  "about": "About us",
+  "linkTree": "Linktree",
+  "privacyPolicy": "Privacy policy",
+  "termsOfUse": "Terms of use",
+  "newsLabel": "Subscribe to our Newsletter",
+  "newsDesc": "No bothering, just free digital marketing value and advice",
+  "newsPlaceholder": "Your e-mail address",
+  "customSource": "Subscribe to our Newsletter",
+  "form": {
+    "email": {
+      "placeholder": "Your email address",
+      "errorMessage": "Email is not valid"
+    },
+    "errorMessage": "Something went wrong, try again later.",
+    "successMessage": "Thank you for subscription."
+  }
+}

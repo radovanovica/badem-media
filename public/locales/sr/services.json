@@ -1,0 +1,39 @@
+{
+  "socialMediaSection": {
+    "title": "Menadžment društvenih mreža",
+    "socialMediaDesc": "Vodimo profile na svim aktuelnim društvenim mrežama. Facebook, Instagram, TikTok, YouTube, LinkedIn i druge. Pravovremeno objavljujemo sadržaj, pratimo trendove i ažurno komuniciramo sa vašom ciljnom grupom.",
+    "socialMediaDesc2": "Ne verujemo da postoji ekspert za društvene mreže u tradicionalnom smislu te reči. Verujemo da je ekspert u ovoj oblasti onaj, ili oni, koji se najbrže prilagođava promenjivoj prirodi društvenih mreža. Imamo zajednički cilj, da naš nastup na društvenim mrežama bude aktuelan iz dana u dan."
+  },
+  "contentCreation": {
+    "title": "Kreiranje sadržaja",
+    "services": "Fotografišemo, pišemo, dizajniramo, snimamo i animiramo. Kreiramo kompletan sadržaj za sve digitalne formate",
+    "contentCreationDesc": "Mislimo da su izbori tima u kreiranju sadržaja važniji od izbora koje pravite u finansijama. Finansije su važne i ne potcenjujemo njihov značaj. Ipak, poenta je drugačija. Novac uvek možemo ponovo zaraditi, ali loš utisak koji jednom ostavimo sadašnjim i potencijalnim klijentima, daleko je teže nadoknaditi. Imamo zajednički cilj, da vaš sadržaj vodi ka kupovini i lojalnosti vaših kupaca. "
+  },
+  "adsSection": {
+    "title": "reklamiranje",
+    "text1": "Izreka kaže \"moraš da trošiš novac da bi ga zaradio\". Naše pravilo kaže, \"moraš pametno da trošiš novac klijenta da bi mu što više novca zaradio\". ",
+    "text2": {
+      "preBold": "Zato pravimo optimalan balans",
+      "bold": "kreativne",
+      "afterBold": "i tehnički podešene reklame. Bilo da je Google, Facebook ili Instagram, verujemo da su ovo dve ključne stavke. Imamo zajednički cilj, da reklama uradi ono zbog čega postoji - ostvari “brand awareness” ili proda."
+    }
+  },
+  "webDesignSection": {
+    "title": "web dizajn",
+    "text3": "Radimo kompletan veb dizajn. Kako u back end-u tako i u front end-u. Da bi vaš veb sajt izgledao atraktivno i radio besprekorno. ",
+    "text4": "Volimo da otvorimo razgovor oko veb dizajna sa jednim jednostavnim pitanjem - za šta vam je potreban veb sajt? Kada znamo šta želimo da postignemo. Onda razumemo suštinu veb sajta kao lokacije sa kojom publika komunicira, a ne stranice na internetu koja samo izgleda kul. Imamo zajednički cilj, da veb sajt bude upečatljiv i komunikativan."
+  },
+  "influenserSection": {
+    "title": "Menadžment influensera",
+    "text1": "Pronalazimo influensera koji odgovara vašem brendu. Stupamo u kontakt, organizujemo saradnju i sprovodimo je od početka do kraja kampanje.",
+    "text2": "Da li biste zaposlili nekog bez prethodne provere i testiranja? Mi imamo isti pristup prilikom odabira influensera sa kojima brend sarađuje. Izbor koji napravimo se može osetiti na nivou cele kompanije. Imamo zajednički cilj, da efekat tog izbora bude izvanredan."
+  },
+  "projectInfo": {
+    "category": "Kategorija: Moda",
+    "location": "Lokacija: Beograd",
+    "work": "Posao: Brendiranje",
+    "year": "Godina: 2021."
+  },
+  "metaTitle": "Badem Media | Usluge",
+  "metaDesc": "Sve što pomislite da je digitalni marketing, naći ćete u Badem Media - i više od toga..."
+}

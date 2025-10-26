@@ -1,0 +1,18 @@
+{
+  "cta": "let's see if it works",
+  "readMore": "see more",
+  "moreAboutUs": "more about us",
+  "productsReadMore": "See the project on Instagram",
+  "notRobot": "I'm not a robot",
+  "loading": "Please wait...",
+  "navItems": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About us",
+    "contact": "Contact",
+    "magazin": "Magazin"
+  },
+
+  "featuredProjectsTitle": "Check out more of our projects!"
+}

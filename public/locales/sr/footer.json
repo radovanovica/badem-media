@@ -1,0 +1,22 @@
+{
+  "address": "Globalna agencija za sve usluge digitalnog marketinga bazirana u Beogradu, Srbiji.",
+  "country": "Beograd, Srbija",
+  "rights": "Sva prava zadržana. Ⓒ 2023 Badem Media",
+  "startProject": "Započni projekat",
+  "about": "O nama",
+  "linkTree": "Linktree",
+  "privacyPolicy": "Politika privatnosti",
+  "termsOfUse": "Uslovi korišćenja",
+  "newsLabel": "Prijavi se na naš Newsletter",
+  "newsDesc": "Nema smaranja, samo besplatna vrednosti i saveti iz digitalnog marketinga",
+  "newsPlaceholder": "Vaša e-mail adresa",
+  "customSource": "Prijavi se na naš Newsletter",
+  "form": {
+    "email": {
+      "placeholder": "Vaša email adresa",
+      "errorMessage": "Email nije validan"
+    },
+    "errorMessage": "Došlo je do greške, molimo vas pokušajte kasnije.",
+    "successMessage": "Hvala vam."
+  }
+}

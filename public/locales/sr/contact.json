@@ -1,0 +1,57 @@
+{
+  "heading": "Naša priča počinje ovde! Kontaktirajte nas.",
+  "text1": "<span> Želimo da vas upoznamo i čujemo vaše ideje. Pišite nam, i </span> <br /> <span> dogovorićemo termin za naš prvi sastanak. </span>",
+  "describe": {
+    "col1": {
+      "label": "Mesto",
+      "ans": "<span> Milovana Markovica 12 </span> <br /> <span> Beograd, Srbija </span>"
+    },
+    "col2": {
+      "label": "Radno vreme:",
+      "ans": "Pon - Pet, 08:00 - 16:00h GMT+1"
+    },
+    "col3": {
+      "label": "e-mail adresa i broj telefona",
+      "ans": "office@bademmedia.rs",
+      "ans2": "+381 60/123-4567"
+    }
+  },
+  "form": {
+    "name": {
+      "placeholder": "Vaše ime",
+      "errorMessage": {
+        "min": "Mora biti 2 karaktera ili više",
+        "max": "Ne može biti više od 20 karaktera"
+      }
+    },
+    "surname": {
+      "placeholder": "Vaše prezime",
+      "errorMessage": {
+        "min": "Mora biti 2 karaktera ili više",
+        "max": "Ne može biti više od 30 karaktera"
+      }
+    },
+    "phone": {
+      "placeholder": "Vaš broj telefona",
+      "errorMessage": "Broj nije validan"
+    },
+    "email": {
+      "placeholder": "Vaša email adresa",
+      "errorMessage": "Email nije validan"
+    },
+    "companyName": {
+      "placeholder": "Ime Vaše kompanije",
+      "errorMessage": "Mora biti 2 karaktera ili više"
+    },
+    "addInfo": {
+      "placeholder": "Opis / Dodatne informacije",
+      "errorMessage": "Mora biti 2 karaktera ili više"
+    },
+    "submitBtn": "Pošalji upit",
+    "errorMessage": "Došlo je do greške, molimo vas pokušajte kasnije.",
+    "successMessage": "Hvala, odgovorićemo u najkraćem roku."
+  },
+  "required": "Neophodno",
+  "metaTitle": "Badem Media | Kontakt",
+  "metaDesc": "Kontaktirajte nas i pronaći ćemo zajedničku inspiraciju i ciljeve za vaš biznis."
+}

@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *::-webkit-scrollbar {
+    display: none;
+  }
+
+  html,
+  body {
+    overflow: hidden;
+  }
+
+  body {
+    @apply text-white text-2xl h-screen w-screen relative transition-colors duration-300;
+  }
+
+  h1 {
+    @apply text-7xl leading-[1] font-semibold;
+  }
+
+  .scroll-of {
+    overflow: hidden;
+  }
+
+  .about-us-description > span {
+    display: block;
+  }
+
+  @media (min-width: 1530px) {
+    html {
+      font-size: 115%;
+    }
+  }
+  @media (max-width: 1024px) {
+    html,
+    body {
+      overflow: initial;
+    }
+
+    h1 {
+      @apply text-5xl;
+    }
+  }
+  @media (max-width: 767px) {
+    h1 {
+      @apply text-4xl;
+    }
+
+    body {
+      @apply text-xl;
+    }
+  }
+  @media (max-width: 640px) {
+    h1 {
+      @apply text-3xl;
+    }
+
+    body {
+      @apply text-base;
+    }
+  }
+}
+
+@layer components {
+  .text-outline {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: theme(colors.badem-brown);
+  }
+}

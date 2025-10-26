@@ -1,0 +1,39 @@
+name: Update server
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+
+            - name: SSH into server and deploy
+              uses: appleboy/ssh-action@v0.1.4
+              with:
+                  host: 84.247.190.28
+                  username: root
+                  password: ${{ secrets.SSH_PASSWORD }}
+                  script: |
+                      cd /home/admin/web/bademmedia.com/public_html
+                      git pull origin main
+                      docker-compose up -d --build --force-recreate
+
+    cleanup:
+        needs: deploy
+        runs-on: ubuntu-latest
+        steps:
+            - name: Cleanup Docker on Server
+              uses: appleboy/ssh-action@v0.1.4
+              with:
+                  host: 84.247.190.28
+                  username: root
+                  password: ${{ secrets.SSH_PASSWORD }}
+                  script: |
+                      cd /home/admin/web/bademmedia.com/public_html
+                      ./scripts/clean-docker.sh

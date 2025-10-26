@@ -1,0 +1,22 @@
+{
+  "pageDesc": "Svi kanali naših aktivnosti.",
+
+  "links": [
+    {
+      "label": "Preuzmi besplatan e-book",
+      "href": "https://bademmedia.com/ebook"
+    },
+    {
+      "label": "Pošalji nam upit za saradnju",
+      "href": "https://bademmedia.com/kontakt"
+    },
+    {
+      "label": "Prijavi se na newsletter",
+      "href": ""
+    },
+    {
+      "label": "Website",
+      "href": "/"
+    }
+  ]
+}

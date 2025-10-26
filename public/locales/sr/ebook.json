@@ -1,0 +1,64 @@
+{
+  "overTitle": "e-book koji menja tvoj biznis",
+  "title": {
+    "free": "Besplatnih",
+    "30days": "30 dana",
+    "row2": "social media content-a"
+  },
+  "customSource": "E-book stranica na sajtu sign up forma",
+  "successMessage": "E-book je postal na tvoj e-mail! Molimo te da proveriš spam I junk folder za svaki slučaj.",
+  "form": {
+    "name": {
+      "placeholder": "Vaše ime",
+      "errorMessage": {
+        "min": "Mora biti 2 karaktera ili više",
+        "max": "Ne može biti više od 20 karaktera"
+      }
+    },
+    "email": {
+      "placeholder": "Vaša email adresa",
+      "errorMessage": "Email nije validan"
+    },
+    "errorMessage": "Došlo je do greške, molimo vas pokušajte kasnije.",
+    "successMessage": "Hvala vam, proverite vaš email"
+  },
+  "description": {
+    "grayText": "Povećaj reach. Kreiraj zajednicu. Povećaj prodaju. Sve to na",
+    "whiteText": "jedan klik od tebe."
+  },
+  "readMore": "saznaj više",
+  "section1": {
+    "title": "Šta ovde dobijaš?",
+    "description": {
+      "row1": "Ebook koji ti donosi INSTANT vrednost - konkretan, realan, funkcionalan i privlačan sadržaj koji će osvežiti tvoj brend i dovesti nove pratioce na tvoju stranicu.",
+      "row2": "Znaš onu daj čoveku ribu i ješće jedan dan, nauči ga da peca i ješće svaki dan. ",
+      "row3": "E pa mi smo odlučili da te naučimo i da pecaš...nove pratioce! Ovde dobijaš ne samo konkretnih 30 tema za social media sadržaj, već i trajnu inspiraciju i način razmišljanja za budućnost.",
+      "row4": "Spremi se, polećemo!"
+    }
+  },
+  "section2": {
+    "row1": {
+      "title": "34 strane sadržaja",
+      "desc": {
+        "whiteText": "namenjeno svima",
+        "grayText": "- totalnim početnicima i profi stručnjacima. primenjivo na svaki biznis!"
+      }
+    },
+    "row2": {
+      "title": "30 tema za sadržaj za društvene mreže",
+      "desc": {
+        "grayText": "predlozi naslova i formata.",
+        "whiteText": "inspiracija, objašnjenja, primeri."
+      }
+    }
+  },
+  "section3": {
+    "title": "Preuzmi svoj primerak sada!",
+    "desc": {
+      "grayText": "pruži svom brendu ono što",
+      "whiteText": "zaslužuje."
+    },
+    "name": "ime",
+    "ctaBtn": "preuzmi e-book"
+  }
+}

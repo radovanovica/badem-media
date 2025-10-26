@@ -1,0 +1,64 @@
+{
+  "overTitle": "e-book that changes your business",
+  "title": {
+    "free": "Free",
+    "30days": "30 days",
+    "row2": "social media content"
+  },
+  "customSource": "E-book page on website sign up form",
+  "successMessage": "The e-book has been sent to your e-mail! Please check your spam and junk folders just in case.",
+  "form": {
+    "name": {
+      "placeholder": "Your name",
+      "errorMessage": {
+        "min": "Must be 2 characters or more",
+        "max": "Can't be more tan 20 characters"
+      }
+    },
+    "email": {
+      "placeholder": "Your email address",
+      "errorMessage": "Email is not valid"
+    },
+    "errorMessage": "Something went wrong, try again later.",
+    "successMessage": "Thank you, check your email."
+  },
+  "description": {
+    "grayText": "Increase reach. Create a community. Increase sales. All this",
+    "whiteText": "at one click from you."
+  },
+  "readMore": "Read more",
+  "section1": {
+    "title": "What are you getting here?",
+    "description": {
+      "row1": "An ebook that brings you INSTANT value - specific, realistic, functional, and attractive content that will refresh your brand and bring new followers to your page.",
+      "row2": "You know what they say... &quote;Give a man a fish and he'll eat for a day, teach him to fish and he'll eat every day.&quote;",
+      "row3": "Well, we decided to teach you how to fish...for new followers! You're getting not only 30 specific topics for social media content, but also lasting inspiration and way of thinking for the future.",
+      "row4": "Get ready, we're taking off!"
+    }
+  },
+  "section2": {
+    "row1": {
+      "title": "34 pages of content",
+      "desc": {
+        "whiteText": "intended for everyone",
+        "grayText": "- total beginners and professional experts. applicable to every business!"
+      }
+    },
+    "row2": {
+      "title": "30 topics for social media content",
+      "desc": {
+        "grayText": "title and format suggestions.",
+        "whiteText": "inspiration, explanations, examples."
+      }
+    }
+  },
+  "section3": {
+    "title": "Download your copy now!",
+    "desc": {
+      "grayText": "give your brand what",
+      "whiteText": "deserves."
+    },
+    "name": "name",
+    "ctaBtn": "download e-book"
+  }
+}

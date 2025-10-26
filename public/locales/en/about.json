@@ -1,0 +1,69 @@
+{
+  "title": "We already have something in common",
+  "text1": "We founded Badem Media after years of experience in the B2C model with different companies. Experience has shown that our past engagements have helped us gain an advantage in the true understanding of the market competition that our clients have every day. Maybe the best sign of that is the cooperation we have with our clients, since our founding 5 years ago.",
+  "text2": "These pages are usually called \"about us.\" But we truly believe that long-term results come when, instead of focusing on the \"about us\" or the \"about you,\" we focus on the question - what can we do together?",
+  "text3": {
+    "first": "This is ideal page",
+    "second": "to meet our team"
+  },
+  "team": {
+    "aleksandar": {
+      "name": "Aleksandar Srećković",
+      "role": "CEO & Founder",
+      "title": "How do I keep my inspiration fresh after all these years of work?",
+      "desc": "<span> If I say that I draw inspiration from books and series, everyone will roll their eyes. Because the point is something completely different. </span> <br> <span> You keep your inspiration alive by keeping your love for this job. This is not a 9 to 5 job. This is a living and creative thing. That means - I stay connected and look at things through the lens of digital marketing wherever I am - in the car, on the beach, in the shower. </span> <br> <span> I don't see it as work or effort, but as productive relaxation from which the best ideas emerge! </span>"
+    },
+
+    "tijana": {
+      "name": "Tijana Srećković ",
+      "role": "Co-founder & Art Direction",
+      "title": "Of all the jobs in the world, why did I choose this one?",
+      "desc": "<span> This job chose me because it gives me the opportunity to be creative, to always stay up to date with trends, provides the ability to do work wherever I am, and most importantly, it gives me the freedom to work as I feel is best because I have the complete trust of our clients. </span> </br> <span> Every new project gives me fresh energy, and every new success of our project renews my zeal to create and come up with even more exciting things! </span>  </br> <span> That’s what kept me in love with my job for years! </span>"
+    },
+    "boban": {
+      "name": "Boban Aksić",
+      "role": "Graphic designer",
+      "title": "If I had to explain what I do to someone in 1 sentence, how would I say it?",
+      "desc": "<span> I make the world a visually more beautiful place, with the help of a little knowledge and a lot of imagination. </span>"
+    },
+    "aleksej": {
+      "name": "Aleksej Nešović",
+      "role": "Photographer i Videographer",
+      "title": "If I were a client, what would I like to see from someone doing my job?",
+      "desc": "<span> If I were a client, I would like to see primarily a dose of professionalism and dedication in what we agreed to collaborate on from someone who does my work, with the energy that must come with it and is important both for me and for the people I work with. So, in my opinion, it's a winning combination for quality work. </span>"
+    },
+    "matija": {
+      "name": "Matija Simeunović",
+      "role": "Project Manager",
+      "title": "What kind of projects do I like to work on the most? What motivates/challenges me?",
+      "desc": "<span> I like to work on creating brands the most. When I only get the story, the raw energy of the people who drive a brand, the outlines and elements of something that has yet to become recognizable - and from that I create a brand that reflects those people and their vision. The challenge is that there is no \"tool\" that can help you with that - either you understand or you don't understand the founder's vision. But that's why when you come up with a good story and see the looks of people whose entire dreams just materialized before their eyes - it's priceless! </span>"
+    },
+    "mladen": {
+      "name": "Mladen Radenković",
+      "role": "Tik Tok Content Creator ",
+      "title": "One expected and one unexpected source of inspiration?",
+      "desc": "<span> Expected - Social networks are my first support when I need inspiration. A large number of creative solutions for different types of content always gives me additional direction. </span> </br> <span> Unexpected - Environment. The speed of the city, the combination of colors and textures, the people, the laughter, and the daily set of events that make the city young and dynamic all inspire me to connect with people in a creative way. </span> "
+    },
+
+    "ivan": {
+      "name": "Ivan Pantić",
+      "role": "Photographer",
+      "title": "What’s the most difficult thing about this job but also the most beautiful?",
+      "desc": "<span> The hardest thing is to be creative again and again. This means that you have to get out of your own head, to always move on to the next good idea. A good idea from yesterday is not a good idea today. Sometimes it is a challenge, especially after many years of experience. </span> </br> <span> But that's exactly what makes me constantly strive to stay fresh and innovative, to learn anew, and get to know myself and the world. That's why it's the best part of this job because, in that sense, this job makes me a better person - I’m changing, and adapting and I never assume that I've learned and mastered everything. </span>"
+    },
+    "artinaj": {
+      "name": "Artinjan Artinović",
+      "role": "Graphic designer & Art Direction",
+      "title": "What needs to be more present in the creative/digital industry?",
+      "desc": "<span> We need more freedom and fewer rules. I get the impression that everything looks the same and that there is no room for any major changes. This is also a great advantage of this job because both clients and the target group immediately recognize when you “break” these rules, and bring something bold and different! </span>"
+    },
+    "ivanKostakijev": {
+      "name": "Ivan Kostakijev",
+      "role": "Graphic designer",
+      "title": "If you weren't a graphic designer, what would you (probably) do?",
+      "desc": "If I weren't a graphic designer, I'm pretty sure I would be in some kind of sports, like basketball or fighting sports like jiu-jitsu or boxing."
+    }
+  },
+  "metaTitle": "Badem Media | About us",
+  "metaDesc": "The story about us is primarily a story about our clients."
+}

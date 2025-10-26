@@ -1,0 +1,73 @@
+{
+  "tags": ["koncept", "društvene mreze", "kreiranje sadržaja", "fotografija"],
+
+  "projectInfo": [
+    {
+      "key": "Kategorija",
+      "value": "fashion"
+    },
+    {
+      "key": "Lokacija",
+      "value": "Belgrade"
+    },
+    {
+      "key": "Godina",
+      "value": "2022/23"
+    },
+    {
+      "key": "Check them out",
+      "value": "Instagram"
+    }
+  ],
+
+  "title": "Projekat Gary Tulip: Modni brend u kreaciji Badem Media",
+
+  "section1": {
+    "title": "Sumarno",
+    "desc": "Na ovu priču smo ponosni zato što smo brend Gary Tulip dobili kada je ova prepoznatljiva lala bila “samo seme”. Imali smo samo naziv i - ništa više! <br/> <br/> Brend smo stvorili “od nule” i zato ga smatramo posebno našim i dragim. <br/> <br/> Kada je nešto što je bilo samo ideja izraslo u oformljeni brend koji ljudi prepoznaju i još važnije, konzumiraju, naš ponos i lična satisfakcija bili su “do neba”!",
+
+    "content": [
+      {
+        "title": "Izazov",
+        "text": "Izazov je ležao u tome da se vizija brenda prenese na sve kanale i u svaki vid izraza - od društvenih mreža, preko vizuelnog identiteta, tona obraćanja ciljnoj grupi i načina predstavljanja proizvoda. <br/> <br/> Kada se počinje od nule, mogućnosti su beskrajne, ali i izazovi."
+      },
+      {
+        "title": "Rešenje",
+        "text": "Naš proces brendinga lako će vam saopštiti i naš moto - Imamo nešto zajedničko. <br/> <br/> Poenta je da kroz lični pristup i razumevanje kreatora brenda, shvatimo ko je ta osoba i šta je njena vizija, a da onda pronađemo šta je zajedničko za nju i za ciljnu grupu, odnosno publiku. <br/> <br/> Kada pomirimo ove dve stavke - unutrašnju sliku koja dolazi od kreatora brenda i spoljašnju sliku koja dolazi od ciljne grupe - ostalo je lako! "
+      },
+      {
+        "title": "Rezultati",
+        "text": "Rezultat je brend koji je bio ostvarenje sna njegovom kreatoru i sve ono što je on zamišljao sprovedeno u realnost, ali i “priča” koja privlači publiku i sa kojom se ciljna grupa, u ovom slučaju muškarci 25-55 godina identifikuju. <br/> <br/> Još jedan brend kreiran. <br/> Još jedan san ostvaren."
+      }
+    ],
+
+    "ourRole": "Naša Uloga"
+  },
+
+  "section2": {
+    "title": "Vizualli",
+    "desc": "Vizuali koje smo kreirali za Gary Tulip saopštavaju samouverenost i neprikosnovenost kojoj muškarci teže. <br/> <br/> Kroz boje, fontove i tematski pristup svakom foto session-u kreirali smo jednu old school atmosferu.... <br/> <br/> ...jer autentična muška moda nikad ne zastareva.",
+    "content": {
+      "title": "Feed",
+      "text1": "Feed je koncipiran tako da kreira utisak magazina i kataloga koji oduvek privlače muškarce, poput Men’s Health, Top Gear, Men’s World ili GQ.",
+      "text2": "Glavna misija je da identitet i utisak feedа budu “pitki” zato što ciljnu grupu, pored autentičnosti, privlači i suptilnost. Ostati ekspresivan, ali suptilan, je svojevrstan izazov.",
+      "title2": "Fotografija",
+      "title3": "Posts",
+      "title4": "Stories",
+      "title5": "Reels"
+    }
+  },
+
+  "section3": {
+    "title": "Rezultati",
+    "desc": "Već u prvom mesecu, pre nego što je osposobljen “shop” na sajtu, Gary Tulip je prodao dvocifreni broj komada, preko Instagram DM-a. <br/> <br/> Jer kada ljudima probudiš želju za svojim proizvodima, ne interesuje ih da li postoji sajt, ili da li je osposobljen shop. <br/> <br/> Pronaći će način da dođu do proizvoda za kojim su “odlepili”!"
+  },
+
+  "section4": {
+    "title": "Impresije",
+    "desc": "“Gary Tulip je modni brend koji je na svom početku morao da se oslanja na digitalne tehnologije kako bismo mogli da uopšte dođemo do kupaca i prodamo svoje komade. Badem Media ekipa je bila naš iskreni partner u ovom poduhvatu, jer oni su nas stavili pred oči ciljne grupe, ali i kreirali sliku koju će ta ciljna grupa da vidi. <br/> <br/> Koncept brenda Gary Tulip dugujemo njima, jer su nam pomogli da kreiramo brend koji komunicira, ostavlja utisak, živi i naravno...prodaje!”"
+  },
+
+  "metaTitle": "Badem Media projekat: Gary Tulip modni brend",
+  "metaDesc": "Istražujemo ideje, kreativne strategije i sadržaj koji smo kreirali i promovisali za modni brend Gari Tulip."
+}

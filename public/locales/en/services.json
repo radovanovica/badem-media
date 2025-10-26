@@ -1,0 +1,33 @@
+{
+  "socialMediaSection": {
+    "title": "social media management",
+    "socialMediaDesc": "We manage profiles on all current social networks - Facebook, Instagram, TikTok, YouTube, LinkedIn, and others. We punctually publish content, follow trends, and regularly communicate with your target audience.",
+    "socialMediaDesc2": "We don’t believe there are social media experts in the traditional sense of the word. We think that the expert is the person, or persons, who are able to adapt to the ever-changing nature of social media. We have a common goal, to make your performance on social media trending on a daily basis."
+  },
+  "contentCreation": {
+    "title": "content creation",
+    "services": "We take photos, write, design, record, and animate. We create complete content for all digital formats.",
+    "contentCreationDesc": "It is our belief that the team choices made in content creation are more important than the choices you make in finance. Finances are important and we do not underestimate their significance. However, the point is different. We can always earn money again, but the bad impression we leave on current and potential clients is much harder to make up for. We have a common goal, to make your content convert to sales and the loyalty of your customers."
+  },
+  "adsSection": {
+    "title": "ads",
+    "text1": "As the saying goes, “You have to spend money in order to earn it.” Our rule says, “Be smart when spending your client’s money, so you can earn the most for them.”",
+    "text2": {
+      "preBold": "That’s why we create the optimal balance between a",
+      "bold": "creative",
+      "afterBold": "and a technically optimized advertisement. Whether it’s Google, Facebook, or Instagram, we believe these to be the two key points. We have a common goal, for the ad to do what it’s supposed to do - achieve brand awareness or sell."
+    }
+  },
+  "webDesignSection": {
+    "title": "web design",
+    "text3": "We do complete web design, both in the back end and in the front end, so that your site looks attractive and performs flawlessly.",
+    "text4": "We like to open the web design conversation with one simple question - what do you need the website for? When we know what we want to achieve, then we understand the essence of the website as a location that the audience interacts with, and not just a page on the Internet that looks cool. We have a common goal, to create a distinctive and communicative website that achieves brand awareness or sales."
+  },
+  "influenserSection": {
+    "title": "Influencer management",
+    "text1": "We find the influencers that suit your brand. We make contact, organize cooperation, and maintain it from the beginning to the end of the campaign.",
+    "text2": "Would you ever hire someone with no prior check or testing? We have the same approach when choosing influencers for cooperation with your brand. The choice we make can be felt on the level of the entire company. We have a common goal - to make the effect of that choice extraordinary."
+  },
+  "metaTitle": "Badem Media | Services",
+  "metaDesc": "Everything you think of as digital marketing, you'll find in Badem Media - and more than that..."
+}

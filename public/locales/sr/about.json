@@ -1,0 +1,67 @@
+{
+  "title": "Mi već imamo nešto zajedničko.",
+  "text1": "Badem Media smo osnovali nakon godina iskustva u B2C modelu rada različitih kompanija. Pokazalo se u praksi da nam je ovo iskustvo dalo prednost u istinskom razumevanju tržišne utakmice koju svakodnevno igraju naši klijenti. Možda su najbolji pokazatelj toga saradnje koje imamo sa klijentima od našeg osnivanja još pre 5 godina.",
+  "text2": "Inače se ovakve stranice zovu “o nama“. Ali mi zaista verujemo da se do dugoročnog rezultata dolazi kada umesto na priču “o nama” ili “o vama”, stavimo pažnju na pitanje - šta mi možemo da uradimo zajedno?",
+  "text3": {
+    "first": "Ovo je idealna stranica",
+    "second": "da upoznate naš tim!"
+  },
+  "team": {
+    "aleksandar": {
+      "name": "Aleksandar Srećković",
+      "role": "CEO & Founder",
+      "title": "Kako održavam svoju inspiraciju svežom nakon ovoliko godina posla?",
+      "desc": "<span> Ako kažem da inspiraciju izvlačim iz knjiga i serija, svi će prevrnuti očima. Jer poenta je nešto sasvim drugo. </span> <br> <span> Inspiraciju održavaš tako što održavaš ljubav prema ovom poslu. Ovo nije 9 do 5 posao. Ovo je živa i kreativna stvar. To znači - ostajem uključen i posmatram stvari kroz prizmu digitalnog marketinga gde god da sam - u kolima, na plaži, ispod tuša. </span> <br> <span> Ne doživljavam to kao posao i napor, već kao produktivno opuštanje iz kog nastaju najbolje ideje! </span>"
+    },
+    "tijana": {
+      "name": "Tijana Srećković",
+      "role": "Co-founder & Art Direkcija",
+      "title": "Od svih poslova na svetu, zasto sam izbarala baš ovaj koji radim?",
+      "desc": "<span> Ovaj posao izabrao je mene, jer mi daje mogućnost da budem kreativna, uvek u toku sa trendovima, mogućnost da radim posao bilo gde da se nalazim i najvažnije, daje mi slobodu da mogu da radim kako ja osećam da je najbolje jer imam svo moguće poverenje naših klijenata. </span> </br> <span> Svaki novi projekat daje mi novu energiju, a svaki novi uspeh projekta koji odradimo budi u meni novu žar da stvaram i smišljam još uzbudljivije stvari! </span> </br> <span> To je ono što me godinama čini zaljubljenom u moj posao! </span>"
+    },
+    "boban": {
+      "name": "Boban Aksić",
+      "role": "Grafički dizajner",
+      "title": "Da moram nekome u 1 jednoj rečenici da objasim šta radim, kako bih to rekao?",
+      "desc": "<span> Činim svet vizuelno lepšim mestom, uz pomoć malo znanja, a puno mašte. </span> "
+    },
+    "aleksej": {
+      "name": "Aleksej Nešović",
+      "role": "Fotograf i Videograf",
+      "title": "Da sam ja klijent, šta bih voleo da vidim od nekog ko radi moj posao?",
+      "desc": "<span> Da sam klijent, od nekog ko radi moj posao voleo bih da vidim prvenstveno jednu dozu profesionalizma i posvećenosti u onome za šta smo se dogovorili da sarađujemo, uz neizbežnu energiju koja je važna kako za mene tako i za ljude sa kojima radim. Tako da, po mom mišljenju je to neka dobitna kombinacija za kvalitetan posao. </span> "
+    },
+    "matija": {
+      "name": "Matija Simeunović",
+      "role": "Projekt menadžer",
+      "title": "Na kakvim projektima najviše volim da radim? Šta me motiviše/izaziva?",
+      "desc": "<span> Najviše volim da radim na kreiranju brendova. Kada dobijem samo priču, sirovu energiju ljudi koji pokreću neki brend, obrise i elemente nečega što tek treba da postane prepoznatljivo - i od toga stvaram brend koji oslikava te ljude i njihovu viziju. Izazov je zato što ne postoji “tool” koji može da ti pomogne u tome - ili razumeš ili ne razumeš viziju osnivača. Ali zato kada smisliš dobru priču i vidiš poglede ljudi kojima se ceo njihov san upravo materijalizovao pred očima - to je neprocenjivo!  </span>"
+    },
+    "mladen": {
+      "name": "Mladen Radenković",
+      "role": "Tik Tok Kreator sadržaja",
+      "title": "Jedno očekivano i jedno neočekivano mesto iz kojeg crpim inspiraciju?",
+      "desc": "<span>   Očekivano - Društvene mreže jesu moj prvi oslonac u trenutku kada mi je inspiracija potrebna. Veliki broj kreativnih rešenja za različite vrste sadržaja uvek mi daje dodatno usmerenje. </span> </br> <span> Neočekivano - Okruženje. Brzina grada, kombinacija boja i teksura, ljudi, smeh i svakodnevni skup dešavanja koja čine grad mladim i dinamičnim inspirišu me da se povežem sa ljudima na kreativan način. </span> "
+    },
+    "ivan": {
+      "name": "Ivan Pantić",
+      "role": "Fotograf",
+      "title": "Šta je najteža stvar u ovom poslu koja je ujedno i najlepša?",
+      "desc": "<span> Najteža stvar je iznova biti kreativan. To znači da moraš da izađeš iz sopstvene glave, da uvek prelaziš na sledeću dobru ideju. Dobra ideja od juče nije dobra ideja danas. Ponekad je to izazov, posebno nakon dugogodišnjeg iskustva. </span> </br> <span> Ali baš to je ono što te stalno tera da budeš svež i inovativan, da iznova učiš i upoznaješ sebe i svet. Zato je to i najlepša strana ovog posla zato što me u tom smislu ovaj posao čini kvalitetnijom osobom - menjam se, adaptiram i nikad ne pretpostavljam da sam sve naučio i savladao. </span> "
+    },
+    "artinaj": {
+      "name": "Artinjan Artinović",
+      "role": "Grafički dizajner & Art Direkcija",
+      "title": "Čega treba da bude više u kreativnoj/digitalno industiji?",
+      "desc": "<span> Više slobode i manje pravila. Stičem utisak da sve isto izgleda i da nema prostora za neke veće promene. To je ujedno i velika prednost ovog posla, jer i klijenti i ciljna grupa odmah prepoznaju kada “prekršiš” ta pravila, doneseš nešto drugačije! </span> "
+    },
+    "ivanKostakijev": {
+      "name": "Ivan Kostakijev",
+      "role": "Grafički dizajner",
+      "title": "Da nisi grafički dizajner, čime bi se (verovatno) bavio?",
+      "desc": "Da nisam grafički dizajner, prilično sam siguran da bih se bavio nekim sportom kao što je košarka ili borilačkim poput brazilske džiu-džice ili boksa."
+    }
+  },
+  "metaTitle": "Badem Media | O nama",
+  "metaDesc": "Priča o nama jeste pre svega priča o našim klijentima."
+}
