@@ -21,7 +21,12 @@ jobs:
                   password: ${{ secrets.SSH_PASSWORD }}
                   script: |
                       cd /home/admin/web/bademmedia.com/public_html
-                      git pull origin main
+                      # Update Git remote URL to your new repository
+                      git remote set-url origin https://github.com/radovanovica/badem-media.git
+                      # Fetch latest changes
+                      git fetch origin
+                      # Force reset to match your repository exactly
+                      git reset --hard origin/main
                       docker-compose up -d --build --force-recreate
 
     cleanup:
